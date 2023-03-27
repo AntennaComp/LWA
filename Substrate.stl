@@ -1,0 +1,172 @@
+solid LWA/Model:substrate
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.855030e+02 2.000113e+02
+      vertex -4.250000e+01 2.855030e+02 2.000113e+02
+      vertex 4.250000e+01 2.850000e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.850000e+02 2.000113e+02
+      vertex -4.250000e+01 2.855030e+02 2.000113e+02
+      vertex -4.250000e+01 2.850000e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal -2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.855030e+02 2.000113e+02
+      vertex -4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex -4.250000e+01 2.850000e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal -2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.850000e+02 2.000113e+02
+      vertex -4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex -4.250000e+01 2.850000e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex 4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex -4.250000e+01 2.850000e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.850000e+02 -1.999887e+02
+      vertex 4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex 4.250000e+01 2.850000e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal 2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex 4.250000e+01 2.855030e+02 2.000113e+02
+      vertex 4.250000e+01 2.850000e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal 2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.850000e+02 -1.999887e+02
+      vertex 4.250000e+01 2.855030e+02 2.000113e+02
+      vertex 4.250000e+01 2.850000e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.855030e+02 2.000113e+02
+      vertex 4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex -4.250000e+01 2.855030e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.855030e+02 2.000113e+02
+      vertex 4.250000e+01 2.855030e+02 -1.999887e+02
+      vertex -4.250000e+01 2.855030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 4.250000e+01 2.850000e+02 -1.999887e+02
+      vertex 4.250000e+01 2.850000e+02 2.000113e+02
+      vertex -4.250000e+01 2.850000e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.250000e+01 2.850000e+02 -1.999887e+02
+      vertex 4.250000e+01 2.850000e+02 2.000113e+02
+      vertex -4.250000e+01 2.850000e+02 2.000113e+02
+    endloop
+  endfacet
+endsolid LWA/Model:substrate
+solid LWA/Model:substrate_1
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.876060e+02 2.000113e+02
+      vertex -5.000000e+01 2.876060e+02 2.000113e+02
+      vertex 5.000000e+01 2.871030e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.871030e+02 2.000113e+02
+      vertex -5.000000e+01 2.876060e+02 2.000113e+02
+      vertex -5.000000e+01 2.871030e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal -2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.876060e+02 2.000113e+02
+      vertex -5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex -5.000000e+01 2.871030e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal -2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.871030e+02 2.000113e+02
+      vertex -5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex -5.000000e+01 2.871030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex 5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex -5.000000e+01 2.871030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.871030e+02 -1.999887e+02
+      vertex 5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex 5.000000e+01 2.871030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal 2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex 5.000000e+01 2.876060e+02 2.000113e+02
+      vertex 5.000000e+01 2.871030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal 2.449294e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.871030e+02 -1.999887e+02
+      vertex 5.000000e+01 2.876060e+02 2.000113e+02
+      vertex 5.000000e+01 2.871030e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.876060e+02 2.000113e+02
+      vertex 5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex -5.000000e+01 2.876060e+02 2.000113e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.876060e+02 2.000113e+02
+      vertex 5.000000e+01 2.876060e+02 -1.999887e+02
+      vertex -5.000000e+01 2.876060e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.871030e+02 -1.999887e+02
+      vertex 5.000000e+01 2.871030e+02 2.000113e+02
+      vertex -5.000000e+01 2.871030e+02 -1.999887e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.871030e+02 -1.999887e+02
+      vertex 5.000000e+01 2.871030e+02 2.000113e+02
+      vertex -5.000000e+01 2.871030e+02 2.000113e+02
+    endloop
+  endfacet
+endsolid LWA/Model:substrate_1
